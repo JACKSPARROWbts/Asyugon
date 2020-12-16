@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864233958804",
+    "firebase_url": "https://sparrow-13345.firebaseio.com",
+    "project_id": "sparrow-13345",
+    "storage_bucket": "sparrow-13345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864233958804:android:2cd7dcbdabed11c3ba3381",
+        "android_client_info": {
+          "package_name": "com.example.asyugon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864233958804-ns3i2fnc8lbj8g5cfkk77sni6ktg6q0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfPtqWNTrFtXvipLjF37SsT_W0fIpNnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864233958804-ns3i2fnc8lbj8g5cfkk77sni6ktg6q0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
